@@ -1,11 +1,17 @@
-# 📊 Project Hemlock - Forensic Financial Analysis & Acquisition Due Diligence
 
-![Finance](https://img.shields.io/badge/Domain-Financial%20Analysis-blue)
-![Power BI](https://img.shields.io/badge/Visualization-PowerBI-yellow)
-![Excel](https://img.shields.io/badge/Tools-Excel-green)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+# Project Hemlock-Forensic Financial Analysis & Acquisition Due Diligence 
 
----
+<div align="center">
+
+![Project Banner](https://img.shields.io/badge/Project-Hemlock%20Forensic%20%26%20Financial%20Analysis-1F3864?style=for-the-badge&logo=data:image/png;base64,)
+
+[![Excel](https://img.shields.io/badge/Microsoft%20Excel-Statistical%20Modeling-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/excel)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
+[![Status](https://img.shields.io/badge/Status-Completed-2E4C8C?style=for-the-badge)](https://github.com)
+[![Internship](https://img.shields.io/badge/UV%20Netware-Internship%20Project-E2EFDA?style=for-the-badge)](https://uvnetware.com)
+
+<br/>
+</div>
 
 # 🔍 Overview
 
@@ -235,10 +241,16 @@ This project demonstrates the ability to:
 
 Data Analytics | Business Analysis | Financial Analytics Enthusiast
 
-* 📧 Add Your Email
-* 💼 Add Your LinkedIn
-* 🌐 Add Portfolio/GitHub Link
-
 ---
 
-# ⭐ If you found this project useful, consider giving it a star!
+<div align="center">
+
+**⭐ If you found this project useful, consider giving it a star!**
+
+<p align="center">
+  <a href="https://linkedin.com/in/rahil-rashid-mulani"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  <a href="mailto:rahil.mulani.contact@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+  <a href="https://github.com/rahilmulani025"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
+</p>
+</div>
+
